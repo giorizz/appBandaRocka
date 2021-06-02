@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banda Rocka Rolla</string>
+    <string name="name_group">Rocka Rolla</string>
+    <string name="version">x.x.x</string>
+    <string name="music_moment">music of moment</string>
+    <string name="redes">rocka_rola_id_apenas</string>
+</resources>
